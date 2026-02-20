@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @CryptoJay11
-- 👀 I’m interested in Crypto Trading and New Updates
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Game Development
+- 👋 Hi, I’m @TeeJayy
+- 👀 I’m currently a student of CyberSecurity in Babcock University
+- 💞️ Proficient in Bash,Python,Wire-Frame,FrontEnd Dev
 - 📫 How to reach me wa.me/2348123078903
 
 <!---
